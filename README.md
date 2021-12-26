@@ -5,3 +5,5 @@ A idéia básica é demonstrar como otimizar imagens docker, reduzindo o seu tam
 Como exemplo, utilizo um pequeno código em Go para criar uma imagem inicial. Esta imagem foi gerada com 965M. Com o processo de otimização, a imagem foi reduzida para 1.77M
 
 Imagem otimizada disponivel em: https://hub.docker.com/r/luciomarcel/hello-fullcycle
+
+Este exemplo faz parte do curso FullCycle.
